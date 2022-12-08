@@ -15,6 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "@test-nx-vite/my-vite-lib": ["libs/my-vite-lib/src/index.ts"],
       "@test-nx-vite/my-workspace-lib": ["libs/my-workspace-lib/src/index.ts"]
     }
   },
