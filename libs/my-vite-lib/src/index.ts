@@ -1,1 +1,1 @@
-export * from './lib/my-vite-lib';
+export * from '@prisma/client';

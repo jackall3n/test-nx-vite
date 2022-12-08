@@ -1,1 +1,1 @@
-export * from './lib/my-workspace-lib';
+export * from '@prisma/client';
